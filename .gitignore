@@ -1,2 +1,4 @@
 
 AlienInvasion/__pycache__/
+*.pyc
+*.html
